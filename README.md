@@ -25,7 +25,7 @@ Após isso clone o repositório utilizando o botão de download escrito **Code* 
 
 Após ter baixado e descompactado o arquivo abra o arquivo **cadastro cliente.c** que já abrirá o código no codeblocks.
 
-Após aberto aperte a tecla F9 em seu teclado que irá que o código será compilado e já irá abrir o programa compilado.
+Após o CodeBlocks ser aberto com o código, aperte a tecla F9 em seu teclado que irá que o código será compilado e já irá abrir o programa compilado.
 
 - Distros Linux
 
@@ -39,4 +39,4 @@ git clone https://github.com/IgorExreme/Cadastro-Cliente
 ````
 Após ter baixado e descompactado o arquivo abra o arquivo **cadastro cliente.c** que já abrirá o código no codeblocks.
 
-Após aberto aperte a tecla F9 em seu teclado que irá que o código será compilado e já irá abrir o programa compilado.
+Após o CodeBlocks ser aberto com o código, aperte a tecla F9 em seu teclado que irá que o código será compilado e já irá abrir o programa compilado.
