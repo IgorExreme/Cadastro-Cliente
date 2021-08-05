@@ -23,7 +23,7 @@ Baixe o CodeBlocks diretamente do site oficial, é recomendado baixar a versão 
 
 Após isso clone o repositório utilizando o botão de download escrito **Code* e escolha o método de download preferido
 
-Após ter baixado e descompactado o arquivo abra o arquivo **cadastro cliente.c** que já abrirá o código no codeblocks.
+Após ter baixado e descompactado o arquivo abra o arquivo **cadastro cliente.c** que já abrirá o código no CodeBlocks.
 
 Após o CodeBlocks ser aberto com o código, aperte a tecla F9 em seu teclado que irá que o código será compilado e já irá abrir o programa compilado.
 
